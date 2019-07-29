@@ -11,4 +11,4 @@ Demarrer serveur front React:
 - "npm run start"
 
 Demarrer serveur back Laravel:
-- "artisan serve"
+- "php artisan serve"
